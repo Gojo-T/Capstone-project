@@ -115,16 +115,8 @@ print("Best Accuracy Score from Grid Search:", grid_search.best_score_)
 ## 📊 Results & Analysis
 | Model                  | Accuracy |
 |------------------------|-------------|
-| Logistic Regression    | 0.64090909090909         |
-| Decision Tree         | 0.877272727272727         |
 | Random Forest        | 0.895454545454545         |
-| XGBoost             |     0.9         |
 
-📌 **Best Performing Model:** _XGBoost (XX% Accuracy)_
-
-## 📢 Conclusion & Future Work
-- **XGBoost performed the best**, showing potential for forensic applications.
-- **Future work:** More diverse datasets, deep learning techniques, real-world testing.
 
 ## 📂 Installation & Usage
 ### 🔹 **Clone the Repository**
@@ -145,8 +137,6 @@ jupyter notebook
 
 ## 📂 References
 - **Scikit-learn Documentation**: [https://scikit-learn.org](https://scikit-learn.org)
-- **XGBoost Documentation**: [https://xgboost.readthedocs.io](https://xgboost.readthedocs.io)
-
 ---
 
 📌 **Author:** _**Saurabh Sharma**_  
