@@ -139,7 +139,5 @@ jupyter notebook
 - **Scikit-learn Documentation**: [https://scikit-learn.org](https://scikit-learn.org)
 ---
 
-📌 **Author:** _**Tushar Govind Khairnar**_  
-
-📌 **GitHub Repository:** _https://github.com/Gojo-T?tab=repositories
-
+## 📌 **Author:** _**Tushar Govind Khairnar**_ 
+## 📌 **GitHub Repository:** [My GitHub Profile](https://github.com/Gojo-T)
